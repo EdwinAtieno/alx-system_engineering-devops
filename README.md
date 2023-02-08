@@ -1,2 +1,2 @@
 #!/bin/bash
-shell practices
+Shell practices
